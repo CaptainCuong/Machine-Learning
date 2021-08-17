@@ -7,3 +7,4 @@
 
 Reference:
 https://arxiv.org/pdf/2108.02497.pdf
+https://viblo.asia/p/mot-so-luu-y-khi-doc-research-paper-cho-nguoi-moi-naQZR910Kvx
