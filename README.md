@@ -2,8 +2,11 @@
 
 ## Course
 
-### 1. Machine Learning
+### 1. Machine Learning (Stanford)
 https://www.coursera.org/learn/machine-learning
+
+### 2. Machine Learning with Python (IBM)
+https://www.coursera.org/learn/machine-learning-with-python/home/welcome
 
 ### 2. Machine Learning Engineering for Production (MLOps)
 https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
