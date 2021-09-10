@@ -22,3 +22,6 @@ https://www.coursera.org/specializations/gcp-data-machine-learning#courses
 
 ### 6. DeepLearning.AI TensorFlow Developer Professional Certificate
 https://www.coursera.org/professional-certificates/tensorflow-in-practice
+
+### 7. Reinforcement Learning Specialization
+https://www.coursera.org/specializations/reinforcement-learning#courses
