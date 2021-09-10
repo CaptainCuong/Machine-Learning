@@ -25,3 +25,6 @@ https://www.coursera.org/professional-certificates/tensorflow-in-practice
 
 ### 7. Reinforcement Learning Specialization
 https://www.coursera.org/specializations/reinforcement-learning#courses
+
+### 8. REINFORCEMENT LEARNING: AN INTRODUCTION BY SUTTON AND BARTO
+http://incompleteideas.net/book/the-book.html
